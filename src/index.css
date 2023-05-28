@@ -5,6 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-color: beige;
+ 
+  text-shadow: black 6px 6px 8px;
+  text-transform: uppercase;
+
+  
+  background:  rgb(0, 255, 242);
+  background-position: 0% 50%;
+
+  
 }
 
 code {
